@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alyssa Knapp: GitHub
 
 You can use the [editor on GitHub](https://github.com/alyssaknapp/AlyssaKnapp-Repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
